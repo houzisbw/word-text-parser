@@ -23,4 +23,5 @@ parser(absPath,function(resultList){
 the *resultList* contains the text in the same order as they are in Word, if the document is empty or contains no Paragraph, the *resultList* is empty
 
 ## **Explaination**
-A *Paragraph* in Microsoft Word document is the segment mode in Word, the following image shows the paragraph distribution in Word.
+A *Paragraph* in Microsoft Word document is the segment mode in Word, the following image shows the paragraph distribution in Word. There are 7 Paragraphs in the image!<br><br>
+![](https://github.com/houzisbw/word-text-parser/blob/master/img/1.jpg)

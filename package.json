@@ -1,6 +1,6 @@
 {
   "name": "word-text-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A parser to extract word document's text",
   "main": "index.js",
   "scripts": {
