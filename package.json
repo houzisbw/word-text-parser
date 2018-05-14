@@ -1,0 +1,19 @@
+{
+  "name": "word-text-parser",
+  "version": "1.0.0",
+  "description": "A parser to extract word document's text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "word",
+    "text",
+    "paragraph"
+  ],
+  "author": "SunBoWei",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.4.11"
+  }
+}
