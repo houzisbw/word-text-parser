@@ -11,6 +11,10 @@
     "text",
     "paragraph"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/houzisbw/word-text-parser"
+  },
   "author": "SunBoWei",
   "license": "ISC",
   "dependencies": {
