@@ -1,5 +1,5 @@
 # word-text-parser
-A parser to extract Microsoft Word document's text in **Nodejs**, which will extract the text content in Word document, return a *array* of string contains the content in each **Paragraph(explaination later)** in Word document<br><br>
+A parser to extract Microsoft Word document's text in **Nodejs**, which will extract the text content in Word document, return a *array* of string contains the content in each **Paragraph(explaination later)** in Word document.<br><br>
 
 ## **Install**
 ```
